@@ -1,0 +1,5 @@
+&num       dt=1.E-5, tmax=.1 /
+&gas    c_p=1000., mw=28 /
+&chamber volume=.005, mgas=.005, T=300, diam=.009 /
+&pyro mgen=1, height=1, diameter=1, gas_yield=1, density=1850, &
+     flame_temp=1900, burn_rate_ref=.022, burn_rate_exp=.5 /
